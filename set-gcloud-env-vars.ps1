@@ -1,0 +1,7 @@
+$env:PROJECT_ID = "hello-go-cloudrun"
+$env:REGION = "us-east1"
+$env:REPO_NAME = "go-services"
+$env:SERVICE_NAME = "hello-go-cloudrun"
+$env:GITHUB_OWNER = "holobeat@gmail.com"
+$env:GITHUB_REPO = "hello-go-cloudrun"
+$env:DEPLOYER_SA = "github-cloud-run-deployer"
